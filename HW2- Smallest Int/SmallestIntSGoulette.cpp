@@ -12,7 +12,7 @@ int main(int argc,char **argv)
 {
 	int list[8] = {1,2,4,5,10,100,2,-22}; //Test array
 	int sizeOfList = 8; //Test array's size
-	cout<<findSmallestInt(list, sizeOfList)<<endl<<endl<<"©Spencer Goulette COS-221"<<endl;	
+	cout<<findSmallestInt(list, sizeOfList)<<endl<<endl<<"©pencer Goulette COS-221"<<endl;	
 }	
 
 int findSmallestInt(const int* x,const int size) //Function that takes an array of ints and its size and returns the smallest int
