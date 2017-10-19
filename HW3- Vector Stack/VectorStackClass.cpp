@@ -28,7 +28,7 @@ int main() {
 
 	cout << "Is the stack empty? " << stringStack.empty() << endl; //Double checking that the stack is empty
 	
-	cout << "©Spencer Goulette COS-221" << endl;
+	cout << "Spencer Goulette COS-221" << endl;
 
 	return 0;
 }
