@@ -1,0 +1,5 @@
+Each homework file contains:
+-A PNG
+-Executable file
+-Source Code
+
