@@ -1,1 +1,5 @@
+The following Homeworks contain:
+*A PNG of the code
+*An Executable of the code
+*The source code
 
