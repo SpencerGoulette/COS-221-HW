@@ -17,7 +17,7 @@ int main()
 	getline(cin, userString);
 	cout<<endl<<"The Permutations for your string are: "<<endl<<endl;
 	displayPermutation(userString);		//Calls the Permutation Function
-	cout<<endl<<"©Spencer Goulette"<<endl;
+	cout<<endl<<"Spencer Goulette"<<endl;
 }
 
 void displayPermutation(const string& s)	//Helper Function
