@@ -38,7 +38,7 @@ int main()
 
 	printList(List);	//Prints the new Linked List
 
-	cout << "©Spencer Goulette" << endl;
+	cout << "Spencer Goulette" << endl;
 }
 
 void addToList(const string& addString)
